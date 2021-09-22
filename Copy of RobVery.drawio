@@ -1,1 +1,377 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T12:36:03.722Z" agent="5.0 (Windows)" etag="jd7q2VzcZsFmO4PXO7Lt" version="15.2.9" type="github"><diagram id="7SA63HAvx1jWozJMohPs" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-22T12:37:03.926Z" agent="5.0 (Windows)" etag="M6AHxvK16O8wvBa8mruv" version="15.2.9" type="github">
+  <diagram id="7SA63HAvx1jWozJMohPs" name="Page-1">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-4" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sketch=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="90" y="40" width="4460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="120" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2017&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="130" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Planet [ATVA]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ6u3BH4I5gmzjGOUQQB-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Formal Verification of Piece-Wise Linear Feed-Forward Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Rüdiger Ehlers&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Bremen)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="90" y="320" width="4450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2018&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="90" y="600" width="4460" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2019&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="600" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="90" y="880" width="4440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2020&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="880" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1160" width="4440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;2021&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#E6E6E6;strokeColor=none;arcSize=11;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1160" width="70" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="120" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="130" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;BaB [NeurIPS]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;A Unified View of Piecewise Linear Neural Network Verification.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-26" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Rudy Bunel et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Oxford)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="120" y="610" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="130" y="620" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-29" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;BaBSR&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="620" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Branch and Bound for Piecewise Linear Neural Network Verification.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-31" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Rudy Bunel et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Oxford)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="770" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4D4D4D;strokeWidth=3;" parent="1" source="kZ6u3BH4I5gmzjGOUQQB-9" target="8ZuE6UymOt83okC72A94-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#4D4D4D;strokeWidth=3;" parent="1" source="8ZuE6UymOt83okC72A94-22" target="8ZuE6UymOt83okC72A94-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="280" as="sourcePoint" />
+            <mxPoint x="245" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="400" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="410" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-36" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Reluplex&lt;/font&gt; [CAV]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-38" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Guy Katz et al.&lt;br&gt;(Stanford University)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="680" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-41" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Sherlock&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-42" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Output Range Analysis for Deep Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Souradeep Dutta et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Colorado)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="960" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="970" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-46" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;NSVerify / Reachability&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;An approach to reachability analysis for feed-forward ReLU neural networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;A. Lomuscio &amp;amp; L. Maganti&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(Imperial College London)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-51" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;ChengMIP [ATVA]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Maximum Resilience of Artificial Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-53" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Chih-Hong Cheng et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(Technical University of Munich)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="960" y="610" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="970" y="620" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-61" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Bounded MILP [ICLR]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="620" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-62" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Evaluating Robustness of Neural Networks with Mixed Integer Programming.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-63" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Vincent Tjeng et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(MIT)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="970" y="770" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8ZuE6UymOt83okC72A94-44" target="8ZuE6UymOt83okC72A94-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1006" y="290" as="sourcePoint" />
+            <mxPoint x="245" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4D4D4D;strokeWidth=3;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" parent="1" source="8ZuE6UymOt83okC72A94-39" target="8ZuE6UymOt83okC72A94-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="280" as="sourcePoint" />
+            <mxPoint x="245" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#4D4D4D;strokeWidth=3;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" parent="1" source="8ZuE6UymOt83okC72A94-44" target="8ZuE6UymOt83okC72A94-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="170" as="sourcePoint" />
+            <mxPoint x="970" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#4D4D4D;strokeWidth=3;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kZ6u3BH4I5gmzjGOUQQB-9" target="8ZuE6UymOt83okC72A94-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="180" as="sourcePoint" />
+            <mxPoint x="590" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="50" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="60" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-70" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;DLV [CAV]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="60" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Safety Verification of Deep Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="90" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-72" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Xiaowei Huang et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Oxford)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="610" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="620" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-75" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;GeoCert [&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;NeurIPS&lt;/font&gt;]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="620" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-76" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Matt Jordan et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of Texas at Austin)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="770" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-80" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;LP-full [ICML]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-81" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Towards Fast Computation of Certified Robustness for ReLU Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-82" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Lily Weng et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(MIT)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="610" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="620" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-89" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;[&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;NeurIPS&lt;/font&gt;&lt;/font&gt;]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="620" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-90" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-91" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Hadi Salman et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(Microsoft Research AI)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="770" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="8ZuE6UymOt83okC72A94-78" target="8ZuE6UymOt83okC72A94-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="580" as="sourcePoint" />
+            <mxPoint x="245" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="890" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="900" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-95" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;C2V [&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;NeurIPS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="900" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-96" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;The Convex Relaxation Barrier, Revisited: Tightened Single-Neuron Relaxations for Neural Network Verification.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="930" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-97" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Christian Tjandraatmadja et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(Google Research)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1050" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8ZuE6UymOt83okC72A94-78" target="8ZuE6UymOt83okC72A94-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="280" as="sourcePoint" />
+            <mxPoint x="1880" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="2090" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-101" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Fast-Lin [ICML]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2090" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-102" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Towards Fast Computation of Certified Robustness for ReLU Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2090" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-103" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Lily Weng et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(MIT)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2090" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-104" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-106" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;CROWN [&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;NeurIPS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-107" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Efficient Neural Network Robustness Certification with General Activation Functions.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-108" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Huan Zhang et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(University of California, Los Angeles)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-109" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="610" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="620" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-111" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;DeepPoly&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="620" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-112" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;An Abstract Domain for Certifying Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="650" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-113" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Gagandeep Singh et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(ETH Zurich)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2370" y="770" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="2640" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-116" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;AI2 [S&amp;amp;P]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-117" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-118" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Timon Gehr et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;ETH Zurich&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-119" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;arcSize=4;" parent="1" vertex="1">
+          <mxGeometry x="2920" y="330" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=2;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-121" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;DiffAI [ICML]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="340" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-122" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&quot;Differentiable Abstract Interpretation for Provably Robust Neural Networks.&quot;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="370" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-123" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Matthew Mirman et al.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;(&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;ETH Zurich&lt;/font&gt;&lt;/font&gt;)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8ZuE6UymOt83okC72A94-114" target="8ZuE6UymOt83okC72A94-119" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1925" y="560" as="sourcePoint" />
+            <mxPoint x="1925" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZuE6UymOt83okC72A94-125" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8ZuE6UymOt83okC72A94-114" target="8ZuE6UymOt83okC72A94-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2880" y="450" as="sourcePoint" />
+            <mxPoint x="2930" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
