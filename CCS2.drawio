@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T22:18:39.473Z" agent="5.0 (Windows)" etag="woXbkq-stQqC8yYB-USU" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T22:20:05.503Z" agent="5.0 (Windows)" etag="X3QI2EKH0I5LszPhH55c" version="16.0.0" type="github">
   <diagram id="0Wm56PS4R_hyQCiAksq0" name="Page-1">
     <mxGraphModel dx="830" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2X8ADFfxfaAZpLk_lXrY-23" value="&lt;font style=&quot;font-size: 30px&quot;&gt;loss&lt;sub&gt;regular&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2X8ADFfxfaAZpLk_lXrY-23" value="&lt;font style=&quot;font-size: 30px&quot;&gt;loss&lt;sub&gt;robust&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1279" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2X8ADFfxfaAZpLk_lXrY-24" value="&lt;font style=&quot;font-size: 30px&quot;&gt;loss&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -209,7 +209,7 @@
         <mxCell id="2X8ADFfxfaAZpLk_lXrY-107" value="&lt;font style=&quot;font-size: 30px&quot;&gt;x&lt;sup&gt;(2)&lt;/sup&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="680" y="840" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2X8ADFfxfaAZpLk_lXrY-22" value="&lt;font style=&quot;font-size: 30px&quot;&gt;loss&lt;sub&gt;robust&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2X8ADFfxfaAZpLk_lXrY-22" value="&lt;font style=&quot;font-size: 30px&quot;&gt;loss&lt;sub&gt;regular&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1279" y="680" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
