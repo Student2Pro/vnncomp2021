@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T10:11:26.991Z" agent="5.0 (Windows)" etag="oycaXQ2zCf80I0NQYDrh" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T10:12:23.510Z" agent="5.0 (Windows)" etag="HMIZTTORdqaKXTWMD-7A" version="17.4.3" type="github">
   <diagram id="e0Mi98c8-ACJExKGMSNL" name="Page-1">
     <mxGraphModel dx="1384" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3000" math="1" shadow="0">
       <root>
@@ -137,13 +137,13 @@
           <mxGeometry x="540" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sggrvUsozKM5TxAsR07B-84" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Bounds&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="600" width="200" height="40" as="geometry" />
+          <mxGeometry x="1080" y="600" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sggrvUsozKM5TxAsR07B-85" value="&lt;font style=&quot;font-size: 30px&quot;&gt;\(0 \le y \le 0 \)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sggrvUsozKM5TxAsR07B-86" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Perturbation: \(-1 \le \epsilon \le 1\); Robustness specification: \(y \le 0.9 \).&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="680" width="1280" height="40" as="geometry" />
+          <mxGeometry x="80" y="680" width="1360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sggrvUsozKM5TxAsR07B-87" value="&lt;font style=&quot;font-size: 30px&quot;&gt;$$X=[x^{(1)},x^{(2)},x^{(3)}]$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="270" height="40" as="geometry" />
