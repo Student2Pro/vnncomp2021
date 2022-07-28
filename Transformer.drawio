@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T05:28:26.813Z" agent="5.0 (Windows)" etag="gTxSuDWSocsVVGeEzNGt" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-28T05:30:30.778Z" agent="5.0 (Windows)" etag="nCSjJeU121xnS4TZbKaa" version="17.4.6" type="github" pages="2">
   <diagram id="ozLwA-AvZQ6vu8N19rIq" name="Page-1">
     <mxGraphModel dx="865" dy="3470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3000" math="1" shadow="0">
       <root>
@@ -113,12 +113,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c_eSjaEkn9HcbY5Ue6n5" name="Page-2">
-    <mxGraphModel dx="865" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3000" math="1" shadow="0">
+    <mxGraphModel dx="2595" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Znv9hdOkKZ1liaSQSUzs-29" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-130" width="350" height="760" as="geometry" />
+          <mxGeometry x="235" y="-120" width="350" height="760" as="geometry" />
         </mxCell>
         <mxCell id="Znv9hdOkKZ1liaSQSUzs-2" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Verdana&quot;&gt;Embedding Layer&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;" vertex="1" parent="Znv9hdOkKZ1liaSQSUzs-29">
           <mxGeometry x="-205" y="395" width="280" height="40" as="geometry" />
